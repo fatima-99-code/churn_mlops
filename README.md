@@ -11,7 +11,7 @@ The trained model is logged using **MLflow** and served via a **FastAPI** backen
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 * **Language:** Python
 * **Framework:** FastAPI
 * **Data Processing & ML:** Pandas, Scikit-learn
