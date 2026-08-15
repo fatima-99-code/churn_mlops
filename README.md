@@ -1,10 +1,10 @@
-# Bank Customer Churn Prediction API 🚀
+# Bank Customer Churn Prediction API 
 
 An end-to-end MLOps pipeline and REST API built with **FastAPI**, **MLflow**, and **Docker** to predict bank customer churn.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 Customer churn is a critical metric for banks. This project builds a machine learning pipeline that predicts whether a customer is likely to leave the bank based on their demographic and financial profile. 
 
 The trained model is logged using **MLflow** and served via a **FastAPI** backend, fully ready for containerized deployment using **Docker**.
@@ -21,7 +21,7 @@ The trained model is logged using **MLflow** and served via a **FastAPI** backen
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 ```text
 churn-mlops/
 │
